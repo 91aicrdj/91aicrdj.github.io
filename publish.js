@@ -42,7 +42,7 @@ var urls=[
 	'elqpbtlo.cc',
 ];                                                                                                                  
 
-var JumpPage="https://aicrdj3.com";
+var JumpPage="https://aicrdj4.com";
 
 var newestUrls = [];
 
