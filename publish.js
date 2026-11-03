@@ -42,7 +42,7 @@ var urls=[
 	'ak29x31k.cc',
 ];                                                                                                                  
 
-var JumpPage="https://aicrdj5.com";
+var JumpPage="https://aicrdj6.com";
 
 var newestUrls = [];
 
