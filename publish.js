@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'nozjvhkg.cc',
 	'wkoinqlaj.cc',
 	'uoqtdgty.cc',
-	'ir96srkz9.cc',
 ];                                                                                                                  
 
 var JumpPage="https://aicrdj7.com";
