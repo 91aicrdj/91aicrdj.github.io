@@ -42,7 +42,7 @@ var urls=[
 	'uoqtdgty.cc',
 ];                                                                                                                  
 
-var JumpPage="https://aicrdj7.com";
+var JumpPage="https://aicrdj8.com";
 
 var newestUrls = [];
 
