@@ -42,7 +42,7 @@ var urls=[
 	'wkoinqlaj.cc',
 ];                                                                                                                  
 
-var JumpPage="https://aicrdj8.com";
+var JumpPage="https://aicrdj9.com";
 
 var newestUrls = [];
 
